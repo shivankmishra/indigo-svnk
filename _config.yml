@@ -35,9 +35,9 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: forcashivank
 # google: mygoogle
-# instagram: myinstagram
+# instagram: https://www.instagram.com/mishrashivank/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -60,12 +60,7 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: forcashivank
-    forcashivank:
-        name: Shivank Mishra
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: forcashivank
+ 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
