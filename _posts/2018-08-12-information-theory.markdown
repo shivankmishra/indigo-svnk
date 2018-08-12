@@ -29,6 +29,8 @@ description: Information Theory Basics
 
 1. Compare “Frequentist probability” vs. “Bayesian probability”?
 
+Frequentist probability 
+
 2. What is a random variable?
 
 3. What is a probability distribution?
