@@ -1,7 +1,7 @@
 ---
 title: "Information Theory Basics"
 layout: post
-date: 2016-02-24 22:44
+date: 2018-08-12 08:45
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
