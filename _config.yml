@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://shivankmishra.com
-# your url: http://USERNAME.github.io
+url: https://shivankmishra.github.io/indigo-svnk
+your url: https://shivankmishra.github.io/indigo-svnk
 
 permalink: /:title/
 
