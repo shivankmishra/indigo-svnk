@@ -31,7 +31,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Image Captioning</a></li>
+	<li><a href="https://github.com/">Multitask Learning using NMT</a></li>
+	<li><a href="https://github.com/">Object Detection and Instance Segmentation on Adversarial Examples </a></li>
 </ul>
